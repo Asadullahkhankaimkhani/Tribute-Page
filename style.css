@@ -1,3 +1,4 @@
+
 #main {
     background-color: lightgray;
 }
@@ -6,8 +7,46 @@
 }
 #img-div {
    background-color: white;
-   width: 80%;
-   margin: 0 10%  0 10%;  
+   width: 96%;
+   margin: 0 2%  0 2%;  
    background-size: cover;
    margin: 0% auto;
+}
+#image {
+    width: 100%;
+    height: auto;
+    max-width: 625px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#img-caption {
+    text-align: center;
+}
+#tribute-info h3 {
+    text-align: center;
+}
+#tribute-info ul {
+    display: table;
+    margin: 0 auto;
+    width: 600px;
+  
+}
+#tribute-info ul li{
+   margin: 10px 0 10px 0;
+   font-family: 'Times New Roman', Times, serif;
+}
+#tribute-info blockquote {
+    width: 600px;
+    display: table;
+    margin: 0 auto;
+    font-size:20px;
+   
+}
+#tribute-info p {
+    width: 600px;
+
+    display: table;
+    margin: 0 auto;
+    font-size:15px;
 }
